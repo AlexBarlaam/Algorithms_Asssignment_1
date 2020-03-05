@@ -1,0 +1,11 @@
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.exe
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.deps.json
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.runtimeconfig.json
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.runtimeconfig.dev.json
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.dll
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.pdb
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.csprojAssemblyReference.cache
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.AssemblyInfoInputs.cache
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.AssemblyInfo.cs
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.dll
+F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.pdb
