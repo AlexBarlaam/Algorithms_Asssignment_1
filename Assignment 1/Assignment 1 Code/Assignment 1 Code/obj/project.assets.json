@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Bernard\\.nuget\\packages\\": {}
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\University Of Lincoln\\1st Year\\Algorithms and Complexity Module\\Assignment 1\\Assignment 1 Code\\Assignment 1 Code\\Assignment 1 Code.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\Documents\\Uni\\Algorithm Assignment 1\\Assignment 1\\Assignment 1 Code\\Assignment 1 Code\\Assignment 1 Code.csproj",
       "projectName": "Assignment 1 Code",
-      "projectPath": "F:\\University Of Lincoln\\1st Year\\Algorithms and Complexity Module\\Assignment 1\\Assignment 1 Code\\Assignment 1 Code\\Assignment 1 Code.csproj",
-      "packagesPath": "C:\\Users\\Bernard\\.nuget\\packages\\",
-      "outputPath": "F:\\University Of Lincoln\\1st Year\\Algorithms and Complexity Module\\Assignment 1\\Assignment 1 Code\\Assignment 1 Code\\obj\\",
+      "projectPath": "C:\\Users\\alexa\\Documents\\Uni\\Algorithm Assignment 1\\Assignment 1\\Assignment 1 Code\\Assignment 1 Code\\Assignment 1 Code.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexa\\Documents\\Uni\\Algorithm Assignment 1\\Assignment 1\\Assignment 1 Code\\Assignment 1 Code\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Bernard\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -9,3 +9,14 @@ F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\
 F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.AssemblyInfo.cs
 F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.dll
 F:\University Of Lincoln\1st Year\Algorithms and Complexity Module\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.pdb
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.exe
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.deps.json
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.runtimeconfig.json
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.runtimeconfig.dev.json
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.dll
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\bin\Debug\netcoreapp3.1\Assignment 1 Code.pdb
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.csprojAssemblyReference.cache
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.AssemblyInfo.cs
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.dll
+C:\Users\alexa\Documents\Uni\Algorithm Assignment 1\Assignment 1\Assignment 1 Code\Assignment 1 Code\obj\Debug\netcoreapp3.1\Assignment 1 Code.pdb
